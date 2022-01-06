@@ -4,6 +4,6 @@ For the month of June there is a standard deviation of 3.25 in a minimum tempera
 
 
 #below all the data analysis images for the month of June and December in these images you will find all the relevant data requested by W. AVY to the terminal well they're not the ice cream surf shop can be open during the month of December.
+![surfs_up](https://github.com/onehatt29/surfs_up/blob/main/images/june.PNG)
 
-
-#in order to get further analysis of these months I would suggest doing analysis or gathering temperature data for 24 hours in a day just to see if it is at all possible to have this ice cream shop 
+#in order to get further analysis of these months I would suggest doing analysis and gathering temperature data for 24 hours in a day just to see if it is possible to have this ice cream shop open in December 
