@@ -3,7 +3,7 @@
 For the month of June there is a standard deviation of 3.25 in a minimum temperature of 64 degrees As for December there's a standard deviation of 3.7 degrees in the minimum temperature 56 degrees
 
 
-### below all the data analysis images for the month of June and December in these images you will find all the relevant data requested by W. AVY to the terminal well they're not the ice cream surf shop can be open during the month of December.
+#below all the data analysis images for the month of June and December in these images you will find all the relevant data requested by W. AVY to the terminal well they're not the ice cream surf shop can be open during the month of December.
 
 
-###in order to get further analysis of these months I would suggest doing analysis or gathering temperature data for 24 hours in a day just to see if it is at all possible to have this ice cream shop 
+#in order to get further analysis of these months I would suggest doing analysis or gathering temperature data for 24 hours in a day just to see if it is at all possible to have this ice cream shop 
